@@ -1,0 +1,34 @@
+{
+    "questions": [
+    {
+        "question": "Who is my favourite Valorant agent?",
+        "answers": ["Reyna","Raze","KAY-O","Sova"],
+        "correctAnswersIdx": 3
+    },
+    {
+        "question": "Who is my favourite Valorant player?",
+        "answers": ["c0m","Demon1","sinatraa","FNS"],
+        "correctAnswersIdx": 2
+    },
+    {
+        "question": "What is my favourite music genre?",
+        "answers": ["EDM","Pop","Rap","Hip-Hop"],
+        "correctAnswersIdx": 0
+    },
+    {
+        "question": "What country am I from?",
+        "answers": ["US","Canada","Russia","Australia"],
+        "correctAnswersIdx": 1
+    },
+    {
+        "question": "Which of these countries would I like to visit the most?",
+        "answers": ["Japan","Norway","Thailand","Jordan"],
+        "correctAnswersIdx": 0
+    },
+    {
+        "question": "Which of these countries would I like to visit the most?",
+        "answers": ["Jordan","South Korea","Bahamas","South Africa"],
+        "correctAnswersIdx": 0
+    }
+    ]
+}
